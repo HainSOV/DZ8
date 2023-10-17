@@ -63,7 +63,9 @@ print_phone_book()
 
 update_contact("Иван", "111-111")
 
+
 delete_contact("Мария")
+
 
 print_phone_book()
 
